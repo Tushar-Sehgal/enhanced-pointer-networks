@@ -8,37 +8,34 @@ This repository contains the enhanced version of the Pointer Network implementat
 ## Installation
 
 ### Clone the repository
-'''
-git clone https://github.com/Tushar-Sehgal/enhanced-pointer-networks
-cd enhanced-pointer-nn-pytorch
-'''
+
+    git clone https://github.com/Tushar-Sehgal/enhanced-pointer-networks
+    
+    cd enhanced-pointer-nn-pytorch
 
 ### Create and activate a virtual environment using venv or conda.
 
 #### For example, using venv:
-'''
-python -m venv pointer_env
-source pointer_env/bin/activate
-'''
+
+    python -m venv pointer_env
+    
+    source pointer_env/bin/activate
 
 #### On Windows use:
-'''
-pointer_env\\Scripts\\activate
-'''
+
+    pointer_env\Scripts\activate
 
 ### Install dependencies
 
 #### Install all the required dependencies using pip from the requirements.txt file:
-'''
-pip install -r requirements.txt
-'''
+
+    pip install -r requirements.txt
 
 ### Run the model
 
 #### You can run the model by executing the ptr_net.py file:
-'''
-python ptr_net.py
-'''
+
+    python ptr_net.py
 
 ## Acknowledgments
 This code is based on the original Pointer Network implementation by Guillem96. I have made enhancements to the architecture and training process. Full credit goes to the original author for the base implementation.
