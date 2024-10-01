@@ -9,7 +9,7 @@ This repository contains the enhanced version of the Pointer Network implementat
 
 ### Clone the repository
 
-git clone https://github.com/Tushar-Sehgal/enhanced-pointer-nn-pytorch
+git clone https://github.com/Tushar-Sehgal/enhanced-pointer-networks
 
 cd enhanced-pointer-nn-pytorch
 
